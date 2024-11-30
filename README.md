@@ -3,7 +3,9 @@
 ## Project Overview
 The **Bank Loan Analysis Dashboard** leverages **Power BI** to provide actionable insights into loan data. This interactive dashboard helps financial institutions analyze key metrics, understand customer behaviors, monitor repayment trends, and make data-driven decisions. By utilizing powerful visualizations and dynamic filters, the dashboard simplifies complex datasets for better strategic planning.
 
----
+https://github.com/user-attachments/assets/2919ac75-6c11-4002-8433-3d081995fc87
+
+
 
 ## Features
 - **Loan Status Overview**: Insights into active, closed, and defaulted loans.
@@ -73,6 +75,12 @@ This parameter aids in assessing credit risk and improving loan approval strateg
 
 ---
 
+
+Getting Started
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/vinayak200227/Bank-Loan-Analysis-using-PowerBI.git.
+Open the Power BI Project: Open the .pbix file using Power BI Desktop.
+Interact with Dashboards: Explore the interactive dashboards and visualizations to gain insights into bank loan data.
+
 ## How to Use the Dashboard
 1. **Data Import**: Open the dataset in Power BI Desktop.
 2. **Data Transformation**: Use Power Query to clean and preprocess the data.
@@ -87,6 +95,7 @@ This parameter aids in assessing credit risk and improving loan approval strateg
 - Debt consolidation emerges as the primary loan purpose, accounting for significant disbursed amounts.
 
 ---
+
 
 ## Future Enhancements
 - Integrate predictive analytics for forecasting loan defaults.
