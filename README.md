@@ -76,11 +76,6 @@ This parameter aids in assessing credit risk and improving loan approval strateg
 ---
 
 
-Getting Started
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/vinayak200227/Bank-Loan-Analysis-using-PowerBI.git.
-Open the Power BI Project: Open the .pbix file using Power BI Desktop.
-Interact with Dashboards: Explore the interactive dashboards and visualizations to gain insights into bank loan data.
-
 ## How to Use the Dashboard
 1. **Data Import**: Open the dataset in Power BI Desktop.
 2. **Data Transformation**: Use Power Query to clean and preprocess the data.
